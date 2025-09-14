@@ -1,0 +1,13 @@
+# Node dependencies
+client/node_modules
+server/node_modules
+
+# Environment files
+*.env
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
